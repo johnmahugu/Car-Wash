@@ -1,4 +1,7 @@
 # Car Wash, A Laravel Code Test
+
+![alt text](http://i.imgur.com/76y3mdw.png "Product Screenshot")
+
  
 ## Precursory notes
 
@@ -50,3 +53,4 @@ Import database in the root directory called car-wash.sql and update .env file t
 10: Created function, route and view for displaying and retrieving previous washes and their relevant information.
 
 11: Connected it all together / bug fixed.
+
