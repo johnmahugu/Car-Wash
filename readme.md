@@ -6,6 +6,7 @@
 ## Precursory notes
 
  Since the project scope did not reference database design and or server setup I will be using a simple Apache Vhosts setup with a regular DB export for the data.
+ Project also said to save transaction history for at least 10 vehicles, due to the way I set it up the project you the user will enter information about your car wash and it does indeed save it, but there is no preloaded information. Transaction history is displayed at the end of each car wash based on license plate so you can see how it would work with up to 10 transactions.
  
 ## Installation
  
