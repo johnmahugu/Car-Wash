@@ -21,7 +21,7 @@ Very basic vhosts setup
 
 ### Database
 
-Import database and update .env file to match database location / port (note the .env would not be version controlled in a normal setting for security)
+Import database in the root directory called car-wash.sql and update .env file to match database location / port (note the .env would not be version controlled in a normal setting for security)
 
 ## Design and Development Methodology.
 
