@@ -4,6 +4,10 @@
 
  Since the project scope did not reference database design and or server setup I will be using a simple Apache Vhosts setup with a regular DB export for the data.
  
+## Installation
+ 
+Clone repo and run composer install, then follow instruction for Apache and DB
+
 ### Apache Setup 
  
 Very basic vhosts setup 
