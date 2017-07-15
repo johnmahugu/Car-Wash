@@ -14,7 +14,7 @@ Very basic vhosts setup
 ```
  <VirtualHost *:80>
      DocumentRoot "/var/www/html/Car-Wash/public"
-     ServerName car-wash
+     ServerName localhost
      <Directory "/var/www/html/Car-Wash/public">
          AllowOverride All
          Order allow,deny
